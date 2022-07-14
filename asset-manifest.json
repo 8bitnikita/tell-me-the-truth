@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tell-me-the-truth/static/css/main.398f5ad6.css",
+    "main.js": "/tell-me-the-truth/static/js/main.b2ce130c.js",
+    "static/js/787.094cf2fe.chunk.js": "/tell-me-the-truth/static/js/787.094cf2fe.chunk.js",
+    "index.html": "/tell-me-the-truth/index.html",
+    "main.398f5ad6.css.map": "/tell-me-the-truth/static/css/main.398f5ad6.css.map",
+    "main.b2ce130c.js.map": "/tell-me-the-truth/static/js/main.b2ce130c.js.map",
+    "787.094cf2fe.chunk.js.map": "/tell-me-the-truth/static/js/787.094cf2fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398f5ad6.css",
+    "static/js/main.b2ce130c.js"
+  ]
+}
